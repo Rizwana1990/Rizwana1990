@@ -1,0 +1,63 @@
+h1{
+    color:blue;
+    
+}
+header {
+    background-color: aquamarine;
+color: blue;
+text-align:center;
+padding: 2rem 0;
+position: relative;
+}
+.Portfolio-Picture
+{
+width: 130px;
+height:130px;
+border-radius: 75%;
+object-fit:cover;
+position:absolute;
+top: 75px;
+left: 100px
+
+}
+nav
+{                                           
+    background-color: blanchedalmond;
+    color: brown;
+    text-align: left;
+}
+nav ul{
+    list-style-type:none;
+    padding:0px;
+}
+nav ul li{
+    display: inline;
+    margin:0 20 px;
+}
+.section-content
+{
+    background-color: burlywood;
+    padding: 2 rem;
+    margin:1 rem;
+    border-radius:20 px;
+    box-shadow:0 0 10px rgb(red, green, blue);
+background-image: url(./93001ee8b0a904aa7f92c46eac2984ea.png);
+
+
+}
+
+.download-button
+{
+   background-color: beige;
+   color: blue;
+   padding:0.5rem 1rem;
+   text-decoration;none;
+   border-radius:20px;
+   display:inline-block;
+   margin-top:10px; 
+}
+.download-button:hover
+{
+    background-color: rgb(26, 48, 48);
+    
+}
